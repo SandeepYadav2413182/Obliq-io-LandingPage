@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    /* Exact horizontal yellow-to-white-to-blue background color gradient flow */
+    @apply bg-gradient-to-r from-amber-100 via-white to-blue-100 text-slate-800 antialiased min-h-screen selection:bg-blue-200;
+  }
+}
+
+.brand-gradient-mesh {
+  background: linear-gradient(135deg, #FEF3C7 0%, #FFFFFF 50%, #DBEAFE 100%);
+}
