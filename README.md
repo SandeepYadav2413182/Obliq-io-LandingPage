@@ -1,7 +1,11 @@
-<div align="center" style="background: linear-gradient(to right, #FCD34D, #FFFFFF, #60A5FA); padding: 40px; border-radius: 16px; margin-bottom: 30px; border: 2px solid #000000;">
-  <h1 style="color: #000000; font-family: monospace; font-weight: 900; letter-spacing: 0.15em; margin: 0;">OBLIQ.io</h1>
-  <p style="color: #1E293B; font-weight: 700; margin-top: 10px; font-size: 16px;">AI-Powered Compliance Operations for Indian CA Firms</p>
-</div>
+<p align="center">
+  <img src="public/logo.jpeg" alt="OBLIQ.io Logo" width="220" />
+</p>
+
+<h1 align="center">OBLIQ.io</h1>
+<p align="center"><strong>AI-Powered Compliance Operations for Indian CA Firms</strong></p>
+
+---
 
 ## 🚀 Project Overview
 
